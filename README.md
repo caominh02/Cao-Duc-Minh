@@ -9,9 +9,9 @@
   <em>Working with data, optimizing queries, analyze execution plan and building scalable solutions.</em>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&label=Profile%20views&color=0e75b6&style=flat" alt="minh-views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caominh02&label=Profile%20views&color=0e75b6&style=flat" alt="minh-views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME_HERE" alt="minh-trophy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caominh02" alt="minh-trophy" /></a> </p>
 
 ---
 
