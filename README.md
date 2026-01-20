@@ -5,7 +5,7 @@
 <h3 align="center">🗄️ Oracle Developer | 🌱 Junior Data Engineer</h3>
 
 <p align="center">
-  <em>Working with data, optimizing queries, analyze execution plan and building scalable solutions.</em>
+  <em>Working with data, tuning performance, analyzing execution plans and building scalable solutions.</em>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caominh02&label=Profile%20views&color=0e75b6&style=flat" alt="minh-views" /> </p>
 
