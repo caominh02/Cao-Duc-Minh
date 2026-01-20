@@ -3,7 +3,7 @@
 
 <h2 align="center">Hi there, I'm Cao Đức Minh! 👋</h2>
 
-<h3 align="center">🗄️ Oracle Developer | 🚀 Aspiring Data Engineer</h3>
+<h3 align="center">🗄️ Oracle Developer | 🌱 Junior Data Engineer</h3>
 
 <p align="center">
   <em>Working with data, optimizing queries, analyze execution plan and building scalable solutions.</em>
@@ -11,11 +11,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caominh02&label=Profile%20views&color=0e75b6&style=flat" alt="minh-views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caominh02" alt="minh-trophy" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caominh02" alt="minh-trophy" /></a> </p> -->
 
 ---
 
-- 🔭 I’m currently working on **Oracle APEX & PL/SQL Development** at **Amaris Consulting**.
+- 🔭 I’m currently working as a **Junior Data Engineer** at **Amaris Consulting**.
 
 - 🌱 I’m currently learning **Data Engineering methodologies, Big Data tools**, and **Chinese (HSK3 level 🇨🇳)**.
 
@@ -41,12 +41,18 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caominh02&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="minh-stats" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caominh02&show_icons=true&locale=en&theme=tokyonight" alt="minh-stats-2" /></p>
-
+<h3 align="left">Most Used Languages:</h3>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caominh02&theme=tokyonight" alt="minh-streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caominh02&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="minh-stats"/>
 </p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=caominh02&show_icons=true&locale=en&theme=tokyonight" alt="minh-stats-2" />
+</p>
+
+
+
+<!-- <p>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=caominh02&theme=tokyonight" alt="minh-streak" />
+</p> -->
