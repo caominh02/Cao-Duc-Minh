@@ -2,13 +2,11 @@
 <image src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' width='100%' height='300px'/>
 
 <h2 align="center">Hi there, I'm Cao Đức Minh! 👋</h2>
-
 <h3 align="center">🗄️ Oracle Developer | 🌱 Junior Data Engineer</h3>
 
 <p align="center">
-  <em>Working with data, optimizing queries, analyze execution plan and building scalable solutions.</em>
+  <em>Working with data, tuning performance, analyzing execution plans and building scalable solutions.</em>
 </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caominh02&label=Profile%20views&color=0e75b6&style=flat" alt="minh-views" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caominh02" alt="minh-trophy" /></a> </p> -->
