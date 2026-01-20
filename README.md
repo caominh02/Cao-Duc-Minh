@@ -6,7 +6,7 @@
 <h3 align="center">🗄️ Oracle Developer | 🚀 Aspiring Data Engineer</h3>
 
 <p align="center">
-  <em>Working with data, optimizing queries, and building scalable solutions.</em>
+  <em>Working with data, optimizing queries, analyze execution plan and building scalable solutions.</em>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&label=Profile%20views&color=0e75b6&style=flat" alt="minh-views" /> </p>
@@ -15,7 +15,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Oracle APEX & PL/SQL Development** at **GreenSys**.
+- 🔭 I’m currently working on **Oracle APEX & PL/SQL Development** at **Amaris Consulting**.
 
 - 🌱 I’m currently learning **Data Engineering methodologies, Big Data tools**, and **Chinese (HSK3 level 🇨🇳)**.
 
@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **PL/SQL, SQL Tuning, Oracle APEX, Database Design.**
 
-- ⚡ Fun fact: **I can debug complex Stored Procedures but still struggle with Chinese tones! 😅**
+- ⚡ Fun fact: **I can debug complex Stored Procedures but still struggle with Chinese tone! 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
