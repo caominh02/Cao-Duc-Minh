@@ -43,10 +43,10 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME_HERE&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="minh-stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caominh02&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="minh-stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&locale=en&theme=tokyonight" alt="minh-stats-2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caominh02&show_icons=true&locale=en&theme=tokyonight" alt="minh-stats-2" /></p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=tokyonight" alt="minh-streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caominh02&theme=tokyonight" alt="minh-streak" />
 </p>
