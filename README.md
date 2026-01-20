@@ -54,9 +54,9 @@
 <!-- <p>
   <img src="https://github-readme-streak-stats.demolab.com/?user=caominh02&theme=tokyonight" alt="minh-streak" />
 </p> -->
-<h3 align="left">Daily.dev Card:</h3>
+<!-- <h3 align="left">Daily.dev Card:</h3>
 <p align="left">
   <a href="https://app.daily.dev/caominh">
     <img src="https://api.daily.dev/devcards/v2/AEWylQiNho4xwByYqIR1a.png?r=dyt&type=default" width="356" alt="Cao Minh's Dev Card"/>
   </a>
-</p>
+</p> -->
